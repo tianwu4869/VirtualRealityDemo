@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hearthstone Arena3", "Hearthstone Arena3.csproj", "{00AAD7FC-FC2E-194E-04E0-B17F59F0A711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hearthstone Arena3.Editor", "Hearthstone Arena3.Editor.csproj", "{7249F4F0-0DAF-CAE6-4875-4F00BC50026E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00AAD7FC-FC2E-194E-04E0-B17F59F0A711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AAD7FC-FC2E-194E-04E0-B17F59F0A711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AAD7FC-FC2E-194E-04E0-B17F59F0A711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AAD7FC-FC2E-194E-04E0-B17F59F0A711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7249F4F0-0DAF-CAE6-4875-4F00BC50026E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7249F4F0-0DAF-CAE6-4875-4F00BC50026E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7249F4F0-0DAF-CAE6-4875-4F00BC50026E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7249F4F0-0DAF-CAE6-4875-4F00BC50026E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

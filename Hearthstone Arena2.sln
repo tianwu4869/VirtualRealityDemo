@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hearthstone Arena2", "Assembly-CSharp.csproj", "{241E4594-426C-4E25-8F0D-62D1A29C12B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hearthstone Arena2", "Assembly-CSharp-Editor.csproj", "{80916963-349E-7940-3FAA-D3A1DDE80EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241E4594-426C-4E25-8F0D-62D1A29C12B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241E4594-426C-4E25-8F0D-62D1A29C12B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241E4594-426C-4E25-8F0D-62D1A29C12B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241E4594-426C-4E25-8F0D-62D1A29C12B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80916963-349E-7940-3FAA-D3A1DDE80EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80916963-349E-7940-3FAA-D3A1DDE80EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80916963-349E-7940-3FAA-D3A1DDE80EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80916963-349E-7940-3FAA-D3A1DDE80EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
